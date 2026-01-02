@@ -57,6 +57,4 @@
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=midleg-vip&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-
 </div>
