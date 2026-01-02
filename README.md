@@ -1,16 +1,82 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**midleg-vip/midleg-vip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Header / Intro -->
+  <h1>👋 Hello, World!</h1>
+  
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Reverse+Engineer;Full+Stack+Developer;15+y%2Fo+from+Switzerland+%F0%9F%87%A8%F0%9F%87%AD;Always+Learning" alt="Typing SVG" />
+  </p>
 
-Here are some ideas to get you started:
+  <!-- About Me Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Age-15-blue?style=flat-square" alt="Age" />
+    <img src="https://img.shields.io/badge/Location-Switzerland-red?style=flat-square&logo=switzerland" alt="Location" />
+    <img src="https://img.shields.io/badge/Focus-Reverse_Engineering-success?style=flat-square" alt="Focus" />
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br />
+
+  <!-- DISCORD SECTION -->
+  <!-- REPLACE 'YOUR_DISCORD_USERNAME' WITH YOUR ACTUAL USERNAME -->
+  <!-- IF YOU WANT THE BUTTON TO LINK TO YOUR PROFILE, YOU NEED YOUR USER ID. -->
+  <!-- OTHERWISE, IT JUST SHOWS YOUR BADGE -->
+  <a href="https://discordapp.com/users/YOUR_DISCORD_USER_ID_HERE">
+    <img src="https://img.shields.io/badge/Discord-YOUR_USERNAME-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+
+  <br />
+  <br />
+
+  <!-- LANGUAGES SECTION -->
+  <h2>⚡ Languages</h2>
+  <p>
+    <!-- System & Low Level -->
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <!-- Backend & Application -->
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <!-- Web & Scripting -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+    <!-- Mobile -->
+    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  </p>
+
+  <!-- TOOLS & REVERSING SECTION -->
+  <h2>🛠️ Arsenal & Reversing</h2>
+  <p>
+    <!-- Debuggers & Disassemblers -->
+    <img src="https://img.shields.io/badge/IDA_Pro-1f2026?style=for-the-badge&logo=files&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ghidra-black?style=for-the-badge&logo=generic&logoColor=white" />
+    <img src="https://img.shields.io/badge/x64dbg-24292e?style=for-the-badge&logo=generic&logoColor=white" />
+    <img src="https://img.shields.io/badge/dnSpy-3B00B9?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <br/>
+    <!-- Memory & Analysis -->
+    <img src="https://img.shields.io/badge/Cheat_Engine-409F33?style=for-the-badge&logo=cheatengine&logoColor=white" />
+    <img src="https://img.shields.io/badge/ReClass-808080?style=for-the-badge&logo=generic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Process_Hacker-A83333?style=for-the-badge&logo=generic&logoColor=white" />
+    <img src="https://img.shields.io/badge/HxD-00599C?style=for-the-badge&logo=generic&logoColor=white" />
+    <br/>
+    <!-- Network & Environment -->
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </p>
+
+  <br />
+
+  <!-- GITHUB STATS (Optional - makes it look pro) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+
+</div>
